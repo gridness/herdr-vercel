@@ -1,0 +1,13 @@
+{
+  "place": "none",
+  "title": "Vercel terminal background",
+  "overlay": { "kind": "dialog", "width": 410, "height": 156 },
+  "palette": [
+    {
+      "title": "Vercel terminal background",
+      "command": "mod.open",
+      "args": { "name": "vercel-background" },
+      "words": "wallpaper image appearance"
+    }
+  ]
+}
